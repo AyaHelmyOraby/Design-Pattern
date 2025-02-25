@@ -199,5 +199,25 @@ class Database {
 module.exports = new Database();
 ```
 
+## Additional Patterns
+- **Factory Pattern**
+- **Adapter Pattern**
+- **Decorator Pattern**
+- **Observer Pattern**
+- **Strategy Pattern**
+- **Proxy Pattern**
+- **Builder Pattern**
+- **Mediator Pattern**
+- **Command Pattern**
+
+## Most Used Patterns in Companies and Projects
+- **Microservices Architecture**
+- **MVC Pattern**
+- **Singleton Pattern**
+- **Factory Pattern**
+- **Repository Pattern**
+- **Event-Driven Architecture**
+- **Serverless Architecture**
+
 ## Conclusion
 Choosing the right architecture pattern depends on the project requirements, scalability, and maintainability needs. Each pattern has its benefits, and using the right one ensures a robust and efficient system.
